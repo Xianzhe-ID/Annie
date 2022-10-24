@@ -134,6 +134,6 @@ For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
-<a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/ddda3405b847c58198684.jpg?size=100" width="100" height="100"></a> | <a href="https://github.com/Xianzhe2"><img src="https://github.com/xianzhe2.png?size=100" width="100" height="100"></a> |
-[XianzheID](https://github.com/Xianzhe-ID) | [Xianzhe2](https://github.com/Xianzhe2) 
+<a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/ddda3405b847c58198684.jpg?size=100" width="100" height="100"></a> | <a href="https://github.com/Xianzheid"><img src="https://github.com/xianzheid.png?size=100" width="100" height="100"></a> |
+[XianzheID](https://github.com/Xianzhe-ID) | [Xianzhe2](https://github.com/Xianzheid) 
 Recoder | Recoder 
