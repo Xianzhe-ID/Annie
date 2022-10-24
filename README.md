@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<a href="github.com/xianzhe-id"><img src="https://telegra.ph/file/ddda3405b847c58198684.jpg"></a>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ANNIE BOT MULTI DEVICE" src="https://img.shields.io/badge/ANNIE BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -34,7 +34,7 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
+> AnnieBot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). AnnieBot-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
@@ -72,27 +72,27 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autoketik = true //status auto mengetik (auto typing)
+global.available = true //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
-global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
+global.botname = "https://bīt.ly/𝑨𝑵𝑵𝑰𝑬𝑬" //namabot kalian
+global.ownername= "XianzheID" //nama kalian
+global.myweb = "desty.page/xianzhe" //"https://api-hanifganz.herokuapp.com/" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCZr8qo58_6ZNhvt5pYVox9A" //bebas asal jan hapus
+global.github = "https://github.com/Xianzhe-ID" //bebas
+global.email = "xtc5ana@gmail.com" //bebas
+global.region = "印度尼西亞" //bebas
+global.ownernomer = "+6285326781097" // nomor wa kalian
+global.ownernomerr = "+6283135923328" //nmr wa kalian
+global.thumbnail =  "https://telegra.ph/file/f8e9f27ae13fc71e1fde7.jpg" //"./image/lol.jpg"  // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "https://telegra.ph/file/3a47f2dd05cb7d9376834.jpg" //"./image/donasi.jpg"  // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["6285326781097","6283135923328","6285358805324"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'instagram' //sticker wm ubah
+global.author = '@xianzhe_xx' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 ```
 
@@ -107,7 +107,7 @@ global.sessionName = 'session'
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
+- [Saweria](https://saweria.co/xianzhe)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
 - [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
@@ -118,6 +118,7 @@ global.sessionName = 'session'
 - [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 - [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
 - [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 6](https://chat.whatsapp.com/HP5Pbp9MT0eIaC5lfJgw9A)
 
 # Thanks to
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
@@ -133,4 +134,6 @@ For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
-
+<a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/ddda3405b847c58198684.jpg?size=100" width="100" height="100"></a> | <a href="https://github.com/Xianzhe2"><img src="https://github.com/xianzhe2.png?size=100" width="100" height="100"></a> |
+[XianzheID](https://github.com/Xianzhe-ID) | [Xianzhe2](https://github.com/Xianzhe2) 
+Recoder | Recoder 
