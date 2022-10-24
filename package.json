@@ -3,10 +3,10 @@
   "version": "9.0.0",
   "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
-      "type": "module",
-    "engines": {
-    "node": "16.17.1"
-    }
+  "type": "module",
+  "engines": {
+  "node": "16.17.1"
+  }
   "directories": {
     "lib": "lib"
   },
