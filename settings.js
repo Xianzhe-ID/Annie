@@ -18,11 +18,11 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "https://bīt.ly/𝑨𝑵𝑵𝑰𝑬𝑬" //namabot kalian
+global.botname = "https://gīthub.com/Xianzhe-ID" //namabot kalian
 global.ownername= "XianzheID" //nama kalian
 global.myweb = "desty.page/xianzhe"
 //"https://api-hanifganz.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UCHuh48T43SU-Dc7SeLGfX2Q" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCZr8qo58_6ZNhvt5pYVox9A" //bebas asal jan hapus
 global.github = "https://github.com/Xianzhe-ID" //bebas
 global.email = "xtc5ana@gmail.com" //bebas
 global.region = "印度尼西亞" //bebas
